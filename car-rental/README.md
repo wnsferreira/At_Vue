@@ -1,4 +1,16 @@
-# food-app
+# car-rental
+
+
+## 
+Start backend
+```
+npm run backend
+```
+## 
+Start frontend
+```
+npm run serve
+```
 
 ## Project setup
 ```
