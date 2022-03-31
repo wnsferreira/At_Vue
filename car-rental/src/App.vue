@@ -1,13 +1,7 @@
 <template>
   <div>
     <Navbar :logo="logo_src" :alt="app_name" />
-    <div>
-      <!-- <router-link to="/">Home</router-link> |
-      <router-link to="/adicionar">Adicionar</router-link>
-      <router-view></router-view> -->
-    </div>
-    <!-- <RentalForm /> -->
-    <!-- <ShowCar /> -->
+    
     <router-view></router-view>
     <Footer />
   </div>
@@ -29,8 +23,7 @@ export default {
   components: {
     Footer,
     Navbar,
-    // RentalForm,
-    // ShowCar
+    
   }
 }
 </script>

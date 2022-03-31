@@ -6,7 +6,7 @@
       </router-link>
       <!-- <router-link to="/">Escolher carro</router-link>
       <router-link to="/alugar">Alugar</router-link> -->
-      <router-link to="/">Home</router-link> 
+      <router-link to="/">Dashboard</router-link> 
       <router-link to="/adicionar">Adicionar</router-link>
     </div>
   </div>

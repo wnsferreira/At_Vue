@@ -56,7 +56,7 @@ export default {
       marca: null,
       modelo: null,
       descricao: null,
-      valor: null      
+      valor: null,
     };
   },
   methods: {

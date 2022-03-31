@@ -2,21 +2,19 @@
   <div>
     <!-- <Banner /> -->
     <div class="main-container">
-      <h1>Selecione um carro:</h1>
-      <!-- <RentalForm /> -->
+      <Dashboard />
+      <router-view></router-view>
     </div>
   </div>
 </template>
 
 <script>
-// import Banner from '../components/Banner'
-// import RentalForm from '../components/RentalForm'
+import Dashboard from '../components/Dashboard.vue'
 
 export default {
   name: 'Home',
   components: {
-    // Banner,
-    // RentalForm
+   Dashboard
   }
 }
 </script>

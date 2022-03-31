@@ -13,21 +13,22 @@
       "modelo": "Fit",
       "descricao": "motor 1.5",
       "valor": 45
-    },
+    }
+  ],
+  "newCarros": [
     {
       "marca": "honda",
-      "modelo": "civic",
-      "descricao": "2.0",
-      "valor": 50,
-      "id": 3
+      "modelo": "marea",
+      "descricao": "teste",
+      "valor": 555,
+      "id": 5
     },
     {
       "marca": "honda",
       "modelo": "civic",
       "descricao": "ex",
-      "valor": 60,
-      "id": 4
+      "valor": 55,
+      "id": 6
     }
-  ],
-  "newCarros": []
+  ]
 }
